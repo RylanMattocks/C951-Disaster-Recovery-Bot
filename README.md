@@ -1,1 +1,2 @@
 # C951-Disaster-Recovery-Bot
+This is a disaster recovery bot based on the bubble rob tutorial to satisfy the WGU C951 cirriculum. The bot searches for a survivor (the cube) while avoiding obstacles (the cylinders). The robot navigates the area and notifies when the survivor has been found. This does not include an internal map so areas can be searched multiple times. The attached video file shows the demonstration.
